@@ -17,11 +17,11 @@ Branches in this repo (with details):
     0dc574b | Author: Julia Mendoza <231963277+jmendo10cosc381@users.noreply.github.com> | Committer: Julia Mendoza <231963277+jmendo10cosc381@users.noreply.github.com> | Date: 2025-10-07T17:27:58Z | created the test_logger method
     1fc6a83 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T16:45:13Z | Auto-update branch-info.txt
 - main
-  SHA: 92788e2f3a0780bee18a3b8d500f1a7f62da7c02
-  Commits: 6
+  SHA: 3a76b2b35c3d9e21062e811904e13f5d6f8281da
+  Commits: 12
   Recent commits:
+    3a76b2b | Author: Julia Mendoza <231963277+jmendo10cosc381@users.noreply.github.com> | Committer: Julia Mendoza <231963277+jmendo10cosc381@users.noreply.github.com> | Date: 2025-10-07T18:30:57Z | Merge branch 'lab7'
+    a4dba75 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T18:30:02Z | Auto-update branch-info.txt
+    4f88d2f | Author: Julia Mendoza <231963277+jmendo10cosc381@users.noreply.github.com> | Committer: Julia Mendoza <231963277+jmendo10cosc381@users.noreply.github.com> | Date: 2025-10-07T18:29:46Z | Created test_given_conflict_input_then_merged_correctly method
     92788e2 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T18:21:11Z | Auto-update branch-info.txt
-    6e85043 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T18:12:55Z | Auto-update branch-info.txt
-    2b31550 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T17:28:20Z | Auto-update branch-info.txt
-    1fc6a83 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T16:45:13Z | Auto-update branch-info.txt
-    5488695 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T16:44:35Z | Auto-update branch-info.txt
+    17b90a6 | Author: Julia Mendoza <231963277+jmendo10cosc381@users.noreply.github.com> | Committer: Julia Mendoza <231963277+jmendo10cosc381@users.noreply.github.com> | Date: 2025-10-07T18:19:45Z | Added test_valid_keys method
