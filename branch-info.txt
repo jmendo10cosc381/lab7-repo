@@ -17,11 +17,11 @@ Branches in this repo (with details):
     0dc574b | Author: Julia Mendoza <231963277+jmendo10cosc381@users.noreply.github.com> | Committer: Julia Mendoza <231963277+jmendo10cosc381@users.noreply.github.com> | Date: 2025-10-07T17:27:58Z | created the test_logger method
     1fc6a83 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T16:45:13Z | Auto-update branch-info.txt
 - main
-  SHA: 3a76b2b35c3d9e21062e811904e13f5d6f8281da
-  Commits: 12
+  SHA: bc90d2f57344fd6a0aca9129ecbb7e0a668e1734
+  Commits: 14
   Recent commits:
+    bc90d2f | Author: Julia Mendoza <231963277+jmendo10cosc381@users.noreply.github.com> | Committer: Julia Mendoza <231963277+jmendo10cosc381@users.noreply.github.com> | Date: 2025-10-07T18:50:04Z | fixed test logger
+    d676369 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T18:31:53Z | Auto-update branch-info.txt
     3a76b2b | Author: Julia Mendoza <231963277+jmendo10cosc381@users.noreply.github.com> | Committer: Julia Mendoza <231963277+jmendo10cosc381@users.noreply.github.com> | Date: 2025-10-07T18:30:57Z | Merge branch 'lab7'
     a4dba75 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T18:30:02Z | Auto-update branch-info.txt
     4f88d2f | Author: Julia Mendoza <231963277+jmendo10cosc381@users.noreply.github.com> | Committer: Julia Mendoza <231963277+jmendo10cosc381@users.noreply.github.com> | Date: 2025-10-07T18:29:46Z | Created test_given_conflict_input_then_merged_correctly method
-    92788e2 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T18:21:11Z | Auto-update branch-info.txt
-    17b90a6 | Author: Julia Mendoza <231963277+jmendo10cosc381@users.noreply.github.com> | Committer: Julia Mendoza <231963277+jmendo10cosc381@users.noreply.github.com> | Date: 2025-10-07T18:19:45Z | Added test_valid_keys method
