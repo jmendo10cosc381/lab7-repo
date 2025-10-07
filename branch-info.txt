@@ -7,9 +7,18 @@ Branches in this repo (with details):
     6a0fcbc | Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-07T16:45:05Z | Bump actions/checkout from 3 to 5
     5488695 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T16:44:35Z | Auto-update branch-info.txt
     0b8f6db | Author: Julia Mendoza <231963277+jmendo10cosc381@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-07T12:44:26-04:00 | Initial commit
-- main
-  SHA: 5488695514aba7feb980c9f607cba759c96595d6
-  Commits: 2
+- lab7
+  SHA: 0dc574b83e986e91b3783c445a90ceb1ad2cebab
+  Commits: 4
   Recent commits:
+    0dc574b | Author: Julia Mendoza <231963277+jmendo10cosc381@users.noreply.github.com> | Committer: Julia Mendoza <231963277+jmendo10cosc381@users.noreply.github.com> | Date: 2025-10-07T17:27:58Z | created the test_logger method
+    1fc6a83 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T16:45:13Z | Auto-update branch-info.txt
+    5488695 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T16:44:35Z | Auto-update branch-info.txt
+    0b8f6db | Author: Julia Mendoza <231963277+jmendo10cosc381@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-07T12:44:26-04:00 | Initial commit
+- main
+  SHA: 1fc6a83fd3429b56d0a5f501d0605694e5320151
+  Commits: 3
+  Recent commits:
+    1fc6a83 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T16:45:13Z | Auto-update branch-info.txt
     5488695 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T16:44:35Z | Auto-update branch-info.txt
     0b8f6db | Author: Julia Mendoza <231963277+jmendo10cosc381@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-07T12:44:26-04:00 | Initial commit
