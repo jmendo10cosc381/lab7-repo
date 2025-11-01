@@ -1,5 +1,14 @@
 Branches in this repo (with details):
 
+- dependabot/docker/presidio-anonymizer/python-3.14-windowsservercore
+  SHA: 9ea7b9573d4c70194733c1fa5ac9c169c9fbf77e
+  Commits: 16
+  Recent commits:
+    9ea7b95 | Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-11-01T09:21:42Z | Bump python in /presidio-anonymizer
+    a9c6b09 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T18:50:17Z | Auto-update branch-info.txt
+    bc90d2f | Author: Julia Mendoza <231963277+jmendo10cosc381@users.noreply.github.com> | Committer: Julia Mendoza <231963277+jmendo10cosc381@users.noreply.github.com> | Date: 2025-10-07T18:50:04Z | fixed test logger
+    d676369 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T18:31:53Z | Auto-update branch-info.txt
+    3a76b2b | Author: Julia Mendoza <231963277+jmendo10cosc381@users.noreply.github.com> | Committer: Julia Mendoza <231963277+jmendo10cosc381@users.noreply.github.com> | Date: 2025-10-07T18:30:57Z | Merge branch 'lab7'
 - dependabot/github_actions/actions/checkout-5
   SHA: 6a0fcbc9dd4c74579315f50d94384ad57c4ae51b
   Commits: 3
@@ -17,11 +26,11 @@ Branches in this repo (with details):
     0dc574b | Author: Julia Mendoza <231963277+jmendo10cosc381@users.noreply.github.com> | Committer: Julia Mendoza <231963277+jmendo10cosc381@users.noreply.github.com> | Date: 2025-10-07T17:27:58Z | created the test_logger method
     1fc6a83 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T16:45:13Z | Auto-update branch-info.txt
 - main
-  SHA: bc90d2f57344fd6a0aca9129ecbb7e0a668e1734
-  Commits: 14
+  SHA: a9c6b09c22c8cb18bce7e6467718be499b8e8534
+  Commits: 15
   Recent commits:
+    a9c6b09 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T18:50:17Z | Auto-update branch-info.txt
     bc90d2f | Author: Julia Mendoza <231963277+jmendo10cosc381@users.noreply.github.com> | Committer: Julia Mendoza <231963277+jmendo10cosc381@users.noreply.github.com> | Date: 2025-10-07T18:50:04Z | fixed test logger
     d676369 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T18:31:53Z | Auto-update branch-info.txt
     3a76b2b | Author: Julia Mendoza <231963277+jmendo10cosc381@users.noreply.github.com> | Committer: Julia Mendoza <231963277+jmendo10cosc381@users.noreply.github.com> | Date: 2025-10-07T18:30:57Z | Merge branch 'lab7'
     a4dba75 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T18:30:02Z | Auto-update branch-info.txt
-    4f88d2f | Author: Julia Mendoza <231963277+jmendo10cosc381@users.noreply.github.com> | Committer: Julia Mendoza <231963277+jmendo10cosc381@users.noreply.github.com> | Date: 2025-10-07T18:29:46Z | Created test_given_conflict_input_then_merged_correctly method
